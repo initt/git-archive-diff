@@ -14,7 +14,7 @@
 
 #### ２・SourceTreeのカスタム操作を登録
 
-![](image1.png)
+![Image1](image1.png)
 
 <pre>
 ツール＞オプション>カスタム操作＞追加
